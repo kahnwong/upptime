@@ -22,19 +22,19 @@
     "url": "https://baania.com",
     "icon": "https://favicons.githubusercontent.com/baania.com",
     "slug": "baania",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2972,
-    "timeDay": 3623,
-    "timeWeek": 2797,
-    "timeMonth": 2562,
-    "timeYear": 2972,
+    "time": 2991,
+    "timeDay": 4257,
+    "timeWeek": 3059,
+    "timeMonth": 2637,
+    "timeYear": 2991,
     "dailyMinutesDown": {
-      "2022-03-13": 0
+      "2022-03-13": 6
     }
   },
   {
