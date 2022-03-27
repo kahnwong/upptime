@@ -22,7 +22,7 @@
     "url": "https://baania.com",
     "icon": "https://favicons.githubusercontent.com/baania.com",
     "slug": "baania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,9 +31,11 @@
     "time": 2989,
     "timeDay": 2585,
     "timeWeek": 1960,
-    "timeMonth": 2899,
+    "timeMonth": 2918,
     "timeYear": 2989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 0
+    }
   },
   {
     "name": "GitHub",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.30%",
     "time": 333,
     "timeDay": 30,
     "timeWeek": 112,
