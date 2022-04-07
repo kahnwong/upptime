@@ -22,7 +22,7 @@
     "url": "https://baania.com",
     "icon": "https://favicons.githubusercontent.com/baania.com",
     "slug": "baania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2177,
     "timeMonth": 2848,
     "timeYear": 2946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-07": 0
+    }
   },
   {
     "name": "GitHub",
